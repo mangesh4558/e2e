@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class E2eApplication {
 
 	public static void main(String[] args) { 
-		System.out.println("o000 Great ahhe");
+		System.out.println("Mangesh Great ahhe");
 		SpringApplication.run(E2eApplication.class, args);
 	}
 }
